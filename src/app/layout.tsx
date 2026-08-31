@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "Next.js",
     "AI tools",
   ],
-  authors: [{ name: "Muhammad Mubashir", email: "mmubashi75@gmail.com" }],
+  authors: [{ name: "Muhammad Mubashir" }],
   openGraph: {
     title: "Muhammad Mubashir | Product Engineer",
     description:
