@@ -13,32 +13,33 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Muhammad Mubashir | Product Engineer & Full-Stack Developer",
+  title: "Muhammad Mubashir | AI Engineer & SaaS Builder",
   description:
-    "Portfolio of Muhammad Mubashir — Product Engineer building AI-powered tools and professional business utilities. Creator of BookAI (AI receptionist & 24/7 appointment booking SaaS) and a suite of production-ready generators for freelancers and businesses in Pakistan.",
+    "AI Engineer building production SaaS products — AI Receptionist (BookAI), CRM, POS, InvoiceFlow, HR, and 20+ live business tools. Hire me or use my products.",
   keywords: [
     "Muhammad Mubashir",
-    "Product Engineer",
-    "Full Stack Developer",
+    "AI Engineer",
+    "SaaS Developer",
     "BookAI",
+    "AI Receptionist",
     "Pakistan",
-    "SaaS",
     "Next.js",
     "AI tools",
+    "Full Stack",
   ],
   authors: [{ name: "Muhammad Mubashir" }],
   openGraph: {
-    title: "Muhammad Mubashir | Product Engineer",
+    title: "Muhammad Mubashir | AI Engineer",
     description:
-      "Building AI products and professional tools that help freelancers and businesses work smarter.",
+      "Building AI-powered SaaS products businesses actually use. BookAI, CRM, POS, Invoice tools & more — all live.",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammad Mubashir | Product Engineer",
+    title: "Muhammad Mubashir | AI Engineer",
     description:
-      "Building AI products and professional tools that help freelancers and businesses work smarter.",
+      "Building AI-powered SaaS products businesses actually use. BookAI, CRM, POS, Invoice tools & more — all live.",
   },
   robots: {
     index: true,
